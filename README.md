@@ -1,5 +1,6 @@
 # Subscription Converter
-![license](https://img.shields.io/github/license/geniucker/sub-conv) ![last commit](https://img.shields.io/github/last-commit/geniucker/sub-conv)  
+![license](https://img.shields.io/github/license/geniucker/sub-conv) ![last commit](https://img.shields.io/github/last-commit/geniucker/sub-conv) [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FGeniucker%2Fsub-conv.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FGeniucker%2Fsub-conv?ref=badge_shield)
+ 
 这个项目是面向所有Clash用户的订阅转换，如果你需要ZJU专版，请移步[sub-conv 4 ZJU](https://github.com/geniucker/sub-conv-4-ZJU)
 这是一个Clash订阅转换接口(仅提供试用，不保证安全性及可用性)  
 demo: <https://sub-converter.geniucker.top>  
@@ -44,3 +45,6 @@ demo: <https://sub-converter.geniucker.top>
 
 ## 许可证
 本项目采用 [MIT License](https://github.com/Geniucker/sub-conv/blob/main/LICENSE) 分发  
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FGeniucker%2Fsub-conv.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FGeniucker%2Fsub-conv?ref=badge_large)
